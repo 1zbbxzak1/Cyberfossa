@@ -1,5 +1,7 @@
 # **Cyberfossa**
-Visual Novel game for the Project Practice
+Visual Novel game
+
+Developed by 1st year students for the Project Practice
 
 ## Screenshots
 
